@@ -24,7 +24,7 @@ get_header(); ?>
 			 * @hooked storefront_recent_products - 30
 			 * @hooked storefront_featured_products - 40
 			 * @hooked storefront_popular_products - 50
-			 * @hooked storefront_on_sale_products - 60
+			 * 
 			 */
 			do_action( 'homepage' ); ?>
 
